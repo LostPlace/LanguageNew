@@ -1,0 +1,9 @@
+{
+  "chat.changed.permission": "Dein Chat wurde zurückgesetzt, da du nicht die erforderliche Berechtigung hast.",
+  "chat.changed.unable": "Du kannst diesen Chat nicht nutzen.",
+  "discord.link.button.accept": "Verlinkung akzeptieren",
+  "discord.link.button.disable": "Zukünftige Anfragen ignorieren",
+  "discord.link.button.ignore": "Ignorieren",
+  "discord.link.content": "Der Discord Benutzer {0} ({1}) möchte sich mit deinem Minecraft Account verbinden.",
+  "discord.link.title": "Verlinkung Discord - Minecraft"
+}
