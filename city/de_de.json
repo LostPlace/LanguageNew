@@ -159,5 +159,9 @@
   "city.wallet.title": "Wallet",
   "city.council.dialog.idcard.lost.begin": "Oh, Sie haben Ihren Ausweis verloren?",
   "city.council.dialog.idcard.lost.offer.declined": "Schade, einen schönen Tag noch.",
-  "city.council.dialog.idcard.lost.price": "Ein neuer Ausweis kostet {0} Shards."
+  "city.council.dialog.idcard.lost.price": "Ein neuer Ausweis kostet {0} Shards.",
+  "city.property.type.none": "Unbekannt",
+  "city.property.type.apartment": "Wohnung",
+  "city.property.type.property": "Grundstück",
+  "city.property.type.land": "Land"
 }
