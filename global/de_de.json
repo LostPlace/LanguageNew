@@ -44,6 +44,8 @@
   "disconnect.reason.maintenance": "§l§f| §cWARTUNG \n§r\n§7Der Server befindet sich momentan in Wartung.\n\n§7Besuche unseren Discord für weitere Informationen:\n§9discord.gg/lpmc",
   "disconnect.reason.nick.changed": "§l§f| §aNICKNAME GEÄNDERT \n§r\n§7Dein Nickname wurde geändert. Bitte verbinde dich erneut.",
   "disconnect.reason.proxy": "§l§f| §eSICHERHEITSHINWEIS \n§r\n§7Du wurdest vom Server getrennt, da du eine VPN oder einen Proxy verwendest.\n\n§7Falls du glaubst, dass dies ein Fehler ist, kontaktiere uns auf Discord:\n§9discord.gg/lpmc",
+  "disconnect.reason.serveroutdated": "§l§f| §cSERVER VERALTET \n§r\n§7Der Server ist veraltet. Bitte downgrade deine Minecraft Version zu §e{0}§7.",
+  "disconnect.reason.clientoutdated": "§l§f| §cCLIENT VERALTET \n§r\n§7Dein Minecraft Client ist veraltet. Bitte aktualisiere deine Minecraft Version zu §e{0}§7.",
   "generic.example.player": "LostPlace",
   "generic.form.accept": "Akzeptieren",
   "generic.form.decline": "Ablehnen",
@@ -116,5 +118,9 @@
   "command.economy.title": "Währung verwalten",
   "command.currency.current": "Du hast aktuell §e{0} {1}.",
   "command.currency.othercurrent": "§e{0} §7hat aktuell §e{1} {2}.",
-  "core.info.rejoin.packs": "§l| §eRessourcenpakete \n§r\n     §7Es wurden neue Ressourcenpakete geladen. Bitte verbinde dich erneut, um diese zu erhalten.\n"
+  "core.info.rejoin.packs": "§l| §eRessourcenpakete \n§r\n     §7Es wurden neue Ressourcenpakete geladen. Bitte verbinde dich erneut, um diese zu erhalten.\n",
+  "global.money.format": "%,.{0}f",
+  "generic.word.coords": "Koordinaten",
+  "generic.word.itemid": "Item-ID",
+  "generic.word.compass": "Kompass"
 }
