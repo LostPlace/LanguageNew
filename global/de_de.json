@@ -95,6 +95,7 @@
   "form.playerselector.button.friend": "Freunde",
   "form.playerselector.button.group": "Gruppen",
   "form.playerselector.button.name": "Spielername",
+  "form.playerselector.button.self": "Mich selbst",
   "form.playerselector.content": "§7Bitte wähle aus, von wo du einen Spieler auswählen möchtest.",
   "form.playerselector.friend.content": "§7Bitte wähle einen Freund aus, um fortzufahren.",
   "form.playerselector.name.label": "§7Gebe den Namen des Spielers ein, den du auswählen möchtest. §aDu musst ihn nicht ganz ausschreiben.",
@@ -122,5 +123,15 @@
   "global.money.format": "%,.{0}f",
   "generic.word.coords": "Koordinaten",
   "generic.word.itemid": "Item-ID",
-  "generic.word.compass": "Kompass"
+  "generic.word.compass": "Kompass",
+  "generic.connecting": "§qVerbinde mit §s{0}...",
+  "generic.connected": "§Verbunden mit §s{0}...",
+  "generic.word.players": "Spieleranzahl",
+  "generic.word.job": "Beruf",
+  "automessage.info.discord": "§7Trete unserem Discord bei: §9discord.gg/lpmc",
+  "automessage.info.verify": "§7Verifiziere dich auf unserem Discord Server um dort Zugriff auf exklusive Bereiche zu erhalten: §9discord.gg/lpmc",
+  "automessage.info.voting": "§7Unterstütze uns durch das Voten auf verschiedenen Minecraft Serverlisten und erhalte dafür tolle Belohnungen: §9LINK HERE",
+  "social.friend.wentonline": "§e{0} §aist jetzt online.",
+  "social.friend.wentoffline": "§e{0} §cist jetzt offline.",
+  "date.format": "DD.MM.yyyy"
 }
