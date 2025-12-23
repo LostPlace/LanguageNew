@@ -125,7 +125,7 @@
   "generic.word.itemid": "Item-ID",
   "generic.word.compass": "Kompass",
   "generic.connecting": "§qVerbinde mit §s{0}...",
-  "generic.connected": "§Verbunden mit §s{0}...",
+  "generic.connected": "§qVerbunden mit §s{0}...",
   "generic.word.players": "Spieleranzahl",
   "generic.word.job": "Beruf",
   "automessage.info.discord": "§7Trete unserem Discord bei: §9discord.gg/lpmc",
