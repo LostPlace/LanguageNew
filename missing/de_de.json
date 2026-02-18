@@ -75,5 +75,14 @@
   "commands.setworldspawn.description": "",
   "commands.xp.description": "",
   "commands.clone.description": "",
-  "commands.title.description": ""
+  "commands.title.description": "",
+  "commands.clan.description": "",
+  "clan.form.title.none": "",
+  "clan.form.content.none": "",
+  "clan.button.tagpos": "",
+  "clan.button.create": "",
+  "clan.button.search": "",
+  "clan.button.outgoing": "",
+  "clan.button.invites": "",
+  "kekse": ""
 }
