@@ -2,5 +2,10 @@
   "hub.city.transfer.actionbar": "Transferiere in §e{0} Sekunden, Abbruch durch Sneaken",
   "hub.city.transfer.subtitle": "Teleportiere in die Stadt",
   "hub.city.transfer.failed": "§cTeleportation fehlgeschlagen. Bitte versuche es in ein paar Minuten erneut.",
-  "hub.item.start": "Auf in die Stadt"
+  "hub.item.start": "Auf in die Stadt",
+  "hub.city.start.random": "Zufällige Insel",
+  "hub.city.start.selectIsle": "Bitte wähle eine Insel aus.",
+  "hub.city.start.title": "Stadt",
+  "hub.item.me": "Profil",
+  "hub.item.settings": "Einstellungen"
 }
