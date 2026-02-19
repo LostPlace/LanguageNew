@@ -567,5 +567,11 @@
   "commands.isle.description": "Inselverwaltung",
   "commands.isle.usage": "/isle",
   "commands.property.description": "Grundstück verwalten",
-  "commands.property.usage": "/property"
+  "commands.property.usage": "/property",
+  "city.isle.flynpcset": "§aFlug-NPC Einstellung wurde geändert!",
+  "city.scoreboard.flytime": "Flugzeit",
+  "city.property.auto.title": "§rGrundstück automatisch finden",
+  "city.property.auto.content": "§7Bitte wähle eine Grundstücksart aus.",
+  "city.property.auto.no_free_property": "§cEs gibt kein freies Grundstück dieser Art.",
+  "city.property.auto.success": "§aDu wurdest zu einem freien Grundstück teleportiert."
 }

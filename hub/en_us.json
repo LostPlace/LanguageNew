@@ -1,0 +1,11 @@
+{
+  "hub.city.transfer.actionbar": "§7Transfer in §b{0} §7seconds, Sneak to cancel.",
+  "hub.city.transfer.subtitle": "§7Teleport to the city",
+  "hub.city.transfer.failed": "§cTeleportation failed. Try again in a few minutes.",
+  "hub.item.start": "Go to the city",
+  "hub.city.start.random": "§rRandom isle",
+  "hub.city.start.selectIsle": "§7Please select an isle to start on.",
+  "hub.city.start.title": "§rCity Selection",
+  "hub.item.me": "Profile",
+  "hub.item.settings": "Settings"
+}
