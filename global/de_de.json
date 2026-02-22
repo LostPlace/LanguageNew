@@ -529,7 +529,8 @@
   "command.friend.friend.favorite.added": "§a§e{0} §awurde als Favorit markiert.",
   "command.friend.friend.favorite.removed": "§a§e{0} §awurde aus den Favoriten entfernt.",
   "commands.clan.description": "Clan verwalten",
-  "heart.vote.processed": "Die Spieler {0} haben für unseren Server gevotet! \nVote für unseren Server und erhalte tolle Belohnungen: https://lostplacemc.eu/vote",
-  "heart.vote.processed.more": "{0} und {1} weitere Spieler haben für unseren Server gevotet! \nVote für unseren Server und erhalte tolle Belohnungen: https://lostplacemc.eu/vote"
+  "heart.vote.processed.single": "Der Spieler §e{0}§r hat für unseren Server gevotet!",
+  "heart.vote.processed": "Die Spieler §e{0}§r haben für unseren Server gevotet!",
+  "heart.vote.processed.more": "§e{0}§r und §e{1}§r weitere Spieler haben für unseren Server gevotet!"
 
 }
