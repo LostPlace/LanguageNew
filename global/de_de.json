@@ -4,7 +4,7 @@
   "discord.link.button.accept": "§rVerlinkung akzeptieren",
   "discord.link.button.disable": "§rZukünftige Anfragen ignorieren",
   "discord.link.button.ignore": "§rIgnorieren",
-  "discord.link.content": "§7Der Discord Benutzer §e{0} (§e{1}) möchte sich mit deinem Minecraft Account verbinden.",
+  "discord.link.content": "§7Der Discord Benutzer §e{0} §7(§e{1}§7) möchte sich mit deinem Minecraft Account verbinden.",
   "discord.link.title": "§rVerlinkung Discord - Minecraft",
   "generic.word.bank": "§rBank",
   "generic.word.name": "§7Name",
@@ -130,7 +130,7 @@
   "generic.word.job": "Beruf",
   "automessage.info.discord": "§7Trete unserem Discord bei: §9discord.gg/lpmc",
   "automessage.info.verify": "§7Verifiziere dich auf unserem Discord Server um dort Zugriff auf exklusive Bereiche zu erhalten: §9discord.gg/lpmc",
-  "automessage.info.voting": "§7Unterstütze uns durch das Voten auf verschiedenen Minecraft Serverlisten und erhalte dafür tolle Belohnungen: §9LINK HERE",
+  "automessage.info.voting": "§7Unterstütze uns durch das Voten auf verschiedenen Minecraft Serverlisten und erhalte dafür tolle Belohnungen: §9https://lostplacemc.eu/vote",
   "social.friend.wentonline": "§e{0} §aist jetzt online.",
   "social.friend.wentoffline": "§e{0} §cist jetzt offline.",
   "date.format": "DD.MM.yyyy",
@@ -528,5 +528,8 @@
   "command.friend.form.friend.favorite.remove": "§rAus Favoriten entfernen",
   "command.friend.friend.favorite.added": "§a§e{0} §awurde als Favorit markiert.",
   "command.friend.friend.favorite.removed": "§a§e{0} §awurde aus den Favoriten entfernt.",
-  "commands.clan.description": "Clan verwalten"
+  "commands.clan.description": "Clan verwalten",
+  "heart.vote.processed": "Die Spieler {0} haben für unseren Server gevotet! \nVote für unseren Server und erhalte tolle Belohnungen: https://lostplacemc.eu/vote",
+  "heart.vote.processed.more": "{0} und {1} weitere Spieler haben für unseren Server gevotet! \nVote für unseren Server und erhalte tolle Belohnungen: https://lostplacemc.eu/vote"
+
 }
