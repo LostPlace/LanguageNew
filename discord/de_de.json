@@ -34,9 +34,31 @@
   "dc.generic.help": "Hilfe-Menü",
   "dc.menu.help.category.noaccess": "Du hast keinen Zugriff auf diese Kategorie.",
   "dc.menu.help.category.info": "Kategorie: {0}",
-
-
   "dc.command.purge.error.botpermission": "Ich benötige die Berechtigung **Nachrichten verwalten**, um diesen Befehl auszuführen.",
-  "dc.command.purge.description": "Es wurden **{0}** Nachrichten gelöscht."
-
+  "dc.command.purge.description": "Es wurden **{0}** Nachrichten gelöscht.",
+  "dc.command.vote.title": "Vote für LostPlace",
+  "dc.command.vote.description": "Unterstütze LostPlace, indem du für unseren Server abstimmst! Klicke auf den Button unten, um zur Abstimmungsseite zu gelangen.",
+  "dc.command.vote.status": "Status",
+  "dc.command.vote.status.voted": "Abgestimmt",
+  "dc.command.vote.status.notvoted": "Noch nicht abgestimmt",
+  "dc.command.vote.processed": "Vote-Belohnung erhalten",
+  "dc.command.vote.processed.yes": "Ja",
+  "dc.command.vote.processed.no": "Nein",
+  "dc.command.vote.footer": "Verlinke deinen Discord Account mit deinem Minecraft Account, um hier deinen aktuellen Vote-Status zu sehen",
+  "dc.command.vote.button": "Jetzt voten",
+  "dc.command.vote.status.error": "*Es ist ein Fehler aufgetreten, während dein Vote-Status abgerufen wurde. Bitte versuche es später erneut.*",
+  "dc.levelup.title": "Level Aufstieg!",
+  "dc.levelup.message": "Herzlichen Glückwunsch, du bist nun auf Level **{0}**!",
+  "dc.command.level.notfound": "Es konnten keine Level-Statistiken zugeordnet werden.",
+  "dc.command.xpmultiplier.desc": "Der XP-Multiplikator liegt momentan bei **{0}**.",
+  "dc.command.xpmultiplier.field.title": "Mögliche XP",
+  "dc.command.xpmultiplier.field.desc": "Durch den derzeitigen XP-Multiplikator sind XP zwischen **{0} - {1} ** pro Nachricht möglich.",
+  "dc.command.xpmultiplier.increase": "Der XP-Multiplikator wurde auf **{0}** angehoben.",
+  "dc.command.xpmultiplier.decrease": "Der XP-Multiplikator wurde auf **{0}** gesenkt.",
+  "dc.words.level": "Level",
+  "dc.words.xp": "XP",
+  "dc.words.messages": "Nachrichten",
+  "dc.leveling.stats.single": "{0}, wovon **eine Nachricht** XP gegeben hat.",
+  "dc.leveling.stats.multiple": "{0}, wovon **{1} Nachrichten** XP gegeben haben.",
+    "dc.leveling.stats.footer": "{0} XP, um Level {1} zu erreichen."
 }

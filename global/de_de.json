@@ -531,6 +531,6 @@
   "commands.clan.description": "Clan verwalten",
   "heart.vote.processed.single": "Der Spieler §e{0}§r hat für unseren Server gevotet!",
   "heart.vote.processed": "Die Spieler §e{0}§r haben für unseren Server gevotet!",
-  "heart.vote.processed.more": "§e{0}§r und §e{1}§r weitere Spieler haben für unseren Server gevotet!"
-
+  "heart.vote.processed.more": "§e{0}§r und §e{1}§r weitere Spieler haben für unseren Server gevotet!",
+  "generic.word.code": "Code"
 }
