@@ -532,5 +532,9 @@
   "heart.vote.processed.single": "Der Spieler §e{0}§r hat für unseren Server gevotet!",
   "heart.vote.processed": "Die Spieler §e{0}§r haben für unseren Server gevotet!",
   "heart.vote.processed.more": "§e{0}§r und §e{1}§r weitere Spieler haben für unseren Server gevotet!",
-  "generic.word.code": "Code"
+  "generic.word.code": "Code",
+  "chat.format.staff": "§e@TC§r | {0}§7: §r{1}",
+  "chat.format.staff.info": "§e@TC§r | {0}",
+  "chat.format.staff_actionlog": "§l§cLOG§r | {0}"
+
 }
