@@ -62,5 +62,16 @@
   "city.bank.form.account.button.actions": "",
   "cb/clearlag.broadcast": "1",
   "cb/clearlag.tip": "1",
-  "cb/clearlag.done": "2"
+  "cb/clearlag.done": "2",
+  "Regierung": "",
+  "Perlen": "",
+  "commands.redeem.description": "",
+  "commands.groups.description": "",
+  "commands.modmode.description": "",
+  "queue.position": "2",
+  "commands.subway.description": "",
+  "commands.redeemadmin.description": "",
+  "chat.format.staff.info": "1",
+  "core/reboot.announcement": "1",
+  "core.reboot.disconnected": ""
 }
